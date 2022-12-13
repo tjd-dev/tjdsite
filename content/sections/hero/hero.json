@@ -16,7 +16,7 @@
   },
   "description": "I'm a full stack developer and I'm here to help you build your next project.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["Github", "Mail"],
     "showIcons": false
   }
 }
