@@ -9,11 +9,9 @@
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
+      "github": "https://github.com/tjd-dev",
       "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "mail": "mailto:hello@tjd.dev"
     }
   },
   "siteConfiguration": {
@@ -22,13 +20,12 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "label": "Send us a Note",
+        "url": "mailto:hello@tjd.dev"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
