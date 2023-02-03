@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/dalle001.png"
+imageSrc: "../../images/dalle002.png"
 imageAlt: "About TJD.DEV"
 ---
 

@@ -10,11 +10,11 @@
   },
   "title": "TJD.DEV",
   "subtitle": {
-    "prefix": "A new kind of code shop ",
-    "highlight": "for the modern web.",
+    "prefix": "Building robots today ",
+    "highlight": "to be lazy tomorrow",
     "suffix": "."
   },
-  "description": "Just one step above a caveman with a keyboard.",
+  "description": "'you just can't differentiate between a robot and the very best of humans.' ― Isaac Asimov, I, Robot",
   "socialProfiles": {
     "from": ["Github", "Mail"],
     "showIcons": false

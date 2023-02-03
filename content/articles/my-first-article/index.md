@@ -1,53 +1,19 @@
 ---
 title: "Letter to HOA Board on Loop Through Systems"
 description: "Formal notification of incompetence."
-date: "2021-05-28"
+date: "2023-02-03"
 banner:
   src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-  alt: "First Markdown Post"
+  alt: "Letter to HOA Board on Loop Through Systems"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "Regulatory"
 keywords:
   - "Example"
   - "Gatsby"
   - "Markdown"
   - "Blog"
 ---
-
-## Code block test
-
-```css
-.AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
-}
-
-.AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
-}
-
-.AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
-
-@media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
-}
-```
-
-Inline code: `print()`
 
 The HOA has decided to act against the interests of it's residents by continuing to employ a “loop-through” cabling system despite both the incumbent cable provider Astound's free rewire offer and prospective provider Everywhere Wireless' offer to provide service to the building alongside Astound.
 
