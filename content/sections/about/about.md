@@ -3,6 +3,4 @@ imageSrc: "../../images/dalle001.png"
 imageAlt: "About TJD.DEV"
 ---
 
-Specializing in the development of web applications, TJD.DEV is a full-stack development company that provides a wide range of services to help you build your business. We are a team of developers, designers, and project managers who are passionate about building great products. With a practical approach to machine learning and data science, we help you build the right product for your business while reducing vendor lock-in.
-
-Photo by DALL E 2
+Focused on the intersection of technology and business, I am a full-stack software engineer with a passion for building scalable, maintainable, and performant applications. I have a strong background in the financial services industry, and have worked with a variety of clients ranging from startups to Fortune 500 companies. I am a firm believer in the power of open source software, and the power of responsible AI to improve the lives of people around the world, at work and at home. In my free time, you can find me pushing electric cars to their limits and walking the streets of Chicago with robots. Currently fully committed, I am not taking on any new projects.
