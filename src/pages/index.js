@@ -16,11 +16,11 @@ export default function IndexPage() {
       <Seo title="TJD.DEV" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection
+        {/*<ArticlesSection
           sectionId="articles"
           heading="Latest Articles"
           sources={["Medium"]}
-        />
+  /> */}
         <AboutSection sectionId="about" heading="About Portfolio Minimal" />
         <InterestsSection sectionId="details" heading="Details" />
         {/* <ProjectsSection sectionId="features" heading="Built-in Features" /> */}

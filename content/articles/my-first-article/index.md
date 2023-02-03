@@ -1,6 +1,6 @@
 ---
-title: "This is an exemplary article for the blog."
-description: "This description will be used for the article listing and search results on Google."
+title: "Letter to HOA Board on Loop Through Systems"
+description: "Formal notification of incompetence."
 date: "2021-05-28"
 banner:
   src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
@@ -49,26 +49,14 @@ keywords:
 
 Inline code: `print()`
 
-Lorem ipsum dolor sit amed Vel ut spiritday all cultural Lili Elbe lorem in sexuality Herstory sit lorem Ac Genderless homoflexible trans Carrie Fisher Transgender love family cross-dresser ac a ut Ac xe she ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners Ipsum Chimamanda Ngozi sed sit Equal movement gender ut est lorem Laura Jane Grace Emma Watson sem eu.
+The HOA has decided to act against the interests of it's residents by continuing to employ a “loop-through” cabling system despite both the incumbent cable provider Astound's free rewire offer and prospective provider Everywhere Wireless' offer to provide service to the building alongside Astound.
 
-**Maria Montessori vel sem in eu Leelah Alcorn** In eu Leelah Alcorn in Margaret Sanger future Martha Nussbaum eu gender non-conformity Family cross-dresser ac a ut representation drag queen Ac third wave Hannah Gadsby culture feminismus ac suffragette cisgender in a eu Ac a ut representation drag queen Out Lorem ac no means no f word sed Emmeline Pankhurst.
+For those who are unclear on the issue, cable providers use two wiring configurations to equip MDUs (Multi-dwelling Units) with the internal cable wiring necessary to allow the provision of cable services to residents: “loop-through” and “non-loop-through” wiring. A loop-through wiring configuration consists of one wire (the loop) that serves all of the MDU’s units. All units on the loop are limited to receiving the same cable service; therefore, loop-through configurations are rarely used and subject to performance issues directly related to load. (See 47 C.F.R. § 76.2000(a).) Critically, the building is being migrated to "Cloud DVR", which is an over-the-top cord-cutting option on offer from Astound (also the new default option). It is delivered using internet bandwidth as opposed to the seperate digital cable frequencies within the coax cable reserved for TV. Meaning, that this cloud DVR service will further clog the finite bandwidth available in the already constrained loop-through system where bandwidth is shared among all members. The irony is not wasted on me that Alina stated on the monthly HOA call that the demographics of the building didn't align with cord-cutting services at the time.
 
-## Second Headline
+Loop systems by design, make it impossible for a second cable provider to enter the building and provide service to residents[1]. This fact, when combined with the bulk agreement, constructively forms an exclusive franchise agreement between the cable provider [Astound] and the MDU[2626 N Lakeview Condo Assoc]. This is a violation of the FCC’s rules and regulations[2]. It also significantly muddies the water when taking into account Illinois’ Cable TV Franchise Act which addresses the "Point of Demarcation" (220 ILCS 5/21-201), this is where your internal home wiring and the providers wiring meet, the state goes on to say all cable providers must be given equal access to the MDU, and MDUs [individual units] should have a single point of termination for all cable providers (typically in a basement with a riser).
 
-Est vel est appreciation Nadia Murad Basee Taha cross-dressing vel Ut mi sit ut eu id Samira Wiley sit vel sem Ut romance in gender studies ballroom Sit lorem ac no means no f word sed Emmeline Pankhurst Ac sorellanza In Lea Delaria in grrlpwr pansexual intersectional yas queen diritti id mi Sem Audre Lorde Sappho in sed et empowerment genderqueer intersex.
+Having family members in the telecommunications business, I have been able to obtain access to special interest groups, and regulators for their guidance on this matter. The FCC has taken a keen interest in situations within MDUs where it's rules aren't applied and whistle blowers are suppressed. The FCC has a history of taking action against MDUs that have been found to be in violation of the FCC's rules and regulations. To avoid regulatory scrutiny and improve competitive access, the HOA should act in the interest of it's residents and allow the Astound to rewire the building to a non-loop through system; baring that the narrative could be conveyed such that Astound knowingly entered into a deceptive exclusive agreement with the HOA, and that the HOA was not fully aware of the impact of Astound's hoodwink.
 
-![This is the alt tag.](../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg "This is a markdown [caption](https://konstantin.digital).")
+In summation, the simplest path forward is to request Astound to rewire the building with individual drops, something I have already investigated, and they seem amenable to rewiring units. This would help the building comply with regulatory frameworks relating to competition and clear up the demarcation issue, preventing any risks arising from non-compliance in the future. During my conversation with them, it was apparent they have an interest in installing a more reliable system as truck rolls are almost daily to the building for various issues. With careful neogitaian and a reminder of the current state of the law, I am confident they would facilitate the rewire for free as they had previously presented.
 
-Feminizmas eu Dian Fossey ac third wave notion supporting androgyny dui ut People a Sylvia Plath mi sex-positivity demisexual a equality suffragettes pronouns Vel est appreciation Nadia Murad Basee Taha cross-dressing vel Sustainability ut sit dui Lesbians and Gays Support the Miners local eu Hanna Gaby Odiele est queer Misty Copeland She ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners local Equal ac et ut romance in Second wave sit friendship grl pwr castro.
-
-### Third Headline
-
-Vel sem Sed Roxane Gay Caitlin Moran Ace id Amelia Earhart Gloria Steinem Samira Wiley sit Amelia Earhart Gloria Steinem eu In et ac in Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility Dance Simone de Beauvoir eu sem.
-
-#### Fourth Headline
-
-Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility dui et voices Stonewall Inn sem et Ac pride month lorem et eu dui sit eu ut Eu ut Et in lorem id sed Id Kate Bornstein smash the patriarchy et et eu motivational ut In Chimamanda Ngozi sed sit strength.
-
-![This is the alt tag.](../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg)
-
-Vel herstory Bossy sit ac xe she ut Tina Anselmi woman Marina Abramovich Spiritday all cultural Lili Elbe lorem in sexuality Transformation lgbt freedom et ac sem Sem we are everywhere Notion supporting androgyny dui ut dance Simone de Beauvoir eu sem sit Inge Schonöethal Feltrinelli female gaze ac Franca viola.
+Having been sent one cease and desist, I am aware of the adversarial nature of some board members. I hope you find this letter to be edifying. With that and in the interest of time and those to whom I owe a response on this matter, I request that you respond promptly.
